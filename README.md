@@ -1,112 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Ankit%20Nain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Ankit%20Nain&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20SDE%20Aspirant&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://mailto:sagarnain18131421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankitnain">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Ankit522coder">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:sagarnain18131421@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+MongoDB+%7C+WebRTC;4%2B+Live-Deployed+Projects;Open+to+SDE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 ```yaml
-role: "Full-Stack Developer (MERN)"
-education: "B.Tech Computer Engineering @ Kurukshetra University (Expected 2027)"
-focus: "Scalable, user-centric full-stack web applications"
-currently_learning: ["System Design", "AI/ML Web Integrations"]
-foundations: ["DSA (Java)", "OOP", "DBMS", "Operating Systems", "Computer Networks"]
-leadership: "Active NCC Cadet — discipline, teamwork, leadership"
-looking_for: "SDE Internships & Entry-Level Roles"
+role:            "Full-Stack Developer (MERN) & SDE Aspirant"
+education:       "B.Tech Computer Engineering @ Kurukshetra University (Expected May 2027)"
+location:        "Kaithal, Haryana, India"
+focus:           "Scalable, real-time, user-centric full-stack applications"
+currently:       ["System Design", "AI/ML Web Integrations", "DSA in Java"]
+foundations:     ["DSA", "OOP", "DBMS", "Operating Systems", "Computer Networks"]
+leadership:      "NCC Cadet — 'B' Certificate cleared, 'C' Certificate in progress"
+looking_for:     "SDE Internships & Entry-Level Software Developer roles"
 ```
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,c,cpp&theme=dark" />
+
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,materialui,bootstrap&theme=dark" />
 
-**Backend**
+**Backend & APIs**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman&theme=dark" />
 
-**Database**
+**Databases**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark" />
 
-**Languages & Tools**
+**Cloud, DevOps & Tools**
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git,vscode,linux&theme=dark" />
 
 </div>
 
 <br/>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📈 [Zerodha Clone](#)**
-<br/>
-Full-stack stock trading platform with real-time watchlists, order flow, and secure auth.
-<br/>
-`React` `Node.js` `MongoDB` `JWT`
-<br/>
-[🔗 Repo](#) · [🌐 Live Demo](#)
+### 🎥 [Apna Video Call](https://github.com/Ankit522coder)
+Zoom-inspired real-time video conferencing platform with peer-to-peer calls, live chat, screen sharing, and room-based sessions.
+
+`React` `Node.js` `WebRTC` `Socket.IO` `MongoDB` `JWT`
+
+**Highlights**
+- Custom Socket.IO signaling server for SDP/ICE relay & room state
+- JWT auth with protected routes via `withAuth` HOC
+- Deployed live on Render with Vercel-compatible routing
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏠 [Airbnb Clone](#)**
-<br/>
-Property rental platform with listings, bookings, and server-rendered views.
-<br/>
-`Node.js` `Express` `EJS` `MongoDB`
-<br/>
-[🔗 Repo](#) · [🌐 Live Demo](#)
+### 🐙 [Apna GitHub](https://github.com/Ankit522coder)
+GitHub-inspired repository management platform with a custom CLI simulating core Git commands.
+
+`React 19` `Vite` `Node.js` `Express` `MongoDB` `AWS S3`
+
+**Highlights**
+- Custom Node.js CLI: `init`, `add`, `commit`, `push`, `pull`, `revert`
+- UUID-based snapshot versioning + AWS S3 remote storage
+- 8+ REST endpoints for users, repos & issues
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🐦 [Flappy Bird](#)**
-<br/>
-2D side-scroller with a custom physics engine built from scratch.
-<br/>
-`Python` `Pygame`
-<br/>
-[🔗 Repo](#)
+### 📈 [Zerodha Clone](https://github.com/Ankit522coder)
+Three-tier MERN stock trading platform with live portfolio visualizations.
+
+`React` `Node.js` `Express` `MongoDB` `Chart.js` `JWT`
+
+**Highlights**
+- Secure JWT + bcryptjs auth in HTTP-only cookies
+- Holdings, Positions & Orders modules with full Buy flow
+- Real-time charts via Chart.js / react-chartjs-2
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-*More projects coming soon 🔧*
+### 🏠 [StayFinder](https://github.com/Ankit522coder)
+Full-stack property rental platform with complete listing CRUD.
+
+`Node.js` `Express` `EJS` `MongoDB` `Bootstrap`
+
+**Highlights**
+- MVC architecture with session-based auth
+- Flash notifications & custom error-handling middleware
+- Fully responsive, server-rendered UI
 
 </td>
 </tr>
@@ -114,42 +129,61 @@ Property rental platform with listings, bookings, and server-rendered views.
 
 <br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit522coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit522coder&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit522coder&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit522coder&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 <br/>
 
-### 📜 Certifications
+## 🐍 Contribution Graph
 
-- 🏅 **DSA in Java** — Apna College
-- 🏅 **Full Stack Web Development (MERN)** — Apna College
-- 🏅 **AI Virtual Internship** — YBI Foundation
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ankit522coder/Ankit522coder/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> **Note:** the snake graph needs a one-time [GitHub Action setup](https://github.com/Platane/snk) in your profile repo — happy to walk you through it if you want it live.
+
+<br/>
+
+## 🎖️ Certifications
+
+| Certificate | Issuer |
+|---|---|
+| 🏅 Data Structures & Algorithms (Java) | Apna College |
+| 🏅 Full Stack Web Development (MERN) | Apna College |
+| 🏅 AI Virtual Internship — Supervised Learning & Python ML | YBI Foundation |
+
+<br/>
+
+## 🎖️ Extracurricular
+
+**National Cadet Corps (NCC)** — Active Cadet, 2024–Present
+NCC 'B' Certificate cleared · 'C' Certificate in progress · Completed CATC (Combined Annual Training Camp)
 
 <br/>
 
 <div align="center">
 
-### 💬 
-*"First, solve the problem. Then, write the code."* — John Johnson
+### 💬
+*"First, solve the problem. Then, write the code."*
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ankit522coder&color=6366f1&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
 
 </div>
