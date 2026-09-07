@@ -29,10 +29,7 @@ Commit them to the `main` branch.
 4. Save the setting.
 5. Open the **Actions** tab, select **Generate profile artwork**, and click **Run workflow**.
 
-The workflow creates two generated branches:
-
-- `profile-3d-contrib` for the 3D contribution graph.
-- `output` for the animated contribution snake.
+The workflow commits the 3D contribution files into the `profile-3d-contrib` folder and publishes the animated snake to the `output` branch.
 
 The first run may take a minute. After it succeeds, refresh the profile README. The scheduled job updates the artwork daily.
 
@@ -47,7 +44,7 @@ The LeetCode badge from the original README was omitted because no LeetCode prof
 - Confirm the repository is public.
 - Confirm the username is spelled `Ankit522coder` in both files.
 - Confirm both workflow jobs completed successfully in **Actions**.
-- Check that the `profile-3d-contrib` and `output` branches exist.
+- Check that the `profile-3d-contrib` folder contains SVG files and that the `output` branch exists.
 - Wait briefly for GitHub's raw image cache to refresh.
 
 No local package installation or download is required. GitHub Actions downloads and runs the two generators automatically.
