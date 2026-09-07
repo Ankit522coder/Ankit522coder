@@ -129,7 +129,7 @@ Full-stack property rental platform with complete listing CRUD and a responsive 
 <div align="center">
 
 <a href="https://github.com/Ankit522coder">
-  <img src="https://raw.githubusercontent.com/Ankit522coder/Ankit522coder/profile-3d-contrib/profile-night-view.svg" width="96%" alt="3D GitHub contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="96%" alt="3D GitHub contribution graph" />
 </a>
 
 <br />
