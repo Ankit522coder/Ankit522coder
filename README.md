@@ -115,8 +115,8 @@ Full-stack property rental platform with complete listing CRUD and a responsive 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankit522coder&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit522coder&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Ankit522coder&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ankit522coder&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
 
 <br />
 
